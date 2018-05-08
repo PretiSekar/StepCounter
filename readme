@@ -1,0 +1,4 @@
+readMe:
+
+The "StepCounter" Application can be run by selecting the project into the Android Studio.
+The file "StepCounter.txt" is created in the Android Device when a contact is added into the application.
